@@ -1,2 +1,2 @@
 # Scheduler
-Front end for OS synchronization project
+Remote appointment scheduling that uses threading and synchronization  
